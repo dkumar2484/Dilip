@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "SEMI FINAL INDIA vs --------";
+echo "SEMI FINAL INDIA vs NEW ZELAND";
 ?>
 
 </body>
